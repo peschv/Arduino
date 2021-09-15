@@ -6,6 +6,6 @@
 alt="YouTube video of ice-cream truck for cats" width="240"/></a>
 * Brief description: autonomous obstacle-avoiding robot that drives around and releases cat food at set intervals while playing an ice-cream truck song.
 * Code: [Ice-Cream-Truck.ino](Ice-Cream-Truck/Ice-Cream-Truck.ino)
-* Wiring diagram: [Breadboard view](Ice-Cream-Truck/BreadboardSketch.png)
+* Wiring diagram: [Breadboard view](Ice-Cream-Truck/BreadboardView.md)
 * In action: https://youtu.be/epxTPGS2lBc 
 
